@@ -14,3 +14,6 @@ This mobile application helps investors calculate their Unit Trust dividends. It
 - **Reset Function:** Clears all inputs easily.
 
 ## Screenshots
+*<img width="391" height="800" alt="image" src="https://github.com/user-attachments/assets/5d9e8d96-a024-4cf1-8908-5d35b25a8026" />*
+*<img width="396" height="802" alt="image" src="https://github.com/user-attachments/assets/e90237cc-7535-4658-8b11-afc7f45e7e3e" />*
+
